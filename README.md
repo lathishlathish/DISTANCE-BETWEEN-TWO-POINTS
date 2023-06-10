@@ -23,9 +23,11 @@ using the print function, display the distance between the two points.
 ## Step 5:
 End the program. 
 ### PROGRAM:
-#Program to find the distance between two points.
-#Developed by: lathish kanna .m
-#RegisterNumber:212222230073
+```
+Program to find the distance between two points.
+Developed by: lathish kanna .m
+RegisterNumber:212222230073
+```
 ```
 import math
 a=[4,2]
