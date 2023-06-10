@@ -25,7 +25,8 @@ End the program.
 ### PROGRAM:
 #Program to find the distance between two points.
 #Developed by: lathish kanna .m
-#RegisterNumber:22009397
+#RegisterNumber:212222230073
+```
 import math
 a=[4,2]
 b=[10,6]
@@ -35,6 +36,7 @@ x=(x2-x1)**2
 y=(y2-y1)**2
 d=math.sqrt(x+y)
 print("{:.2f}".format(d))
+```
 
 ### OUTPUT:
 ![image](https://user-images.githubusercontent.com/120359170/226855887-2deb55be-c8ea-4ef3-8630-bc16663b7c3c.png)
