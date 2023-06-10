@@ -11,10 +11,8 @@ Using import math function,do the calculations.
 Take the two coordinates as l1 and l2.
 
 ## Step 3:
-Substitute the values in the distance formula
-
-## formula
-![image](https://user-images.githubusercontent.com/120359170/226855592-50367d97-3b77-48dc-aaa1-a2b574c9ee82.png)
+Substitute the values in the distance formula.
+![image](https://github.com/lathishlathish/DISTANCE-BETWEEN-TWO-POINTS/assets/120359170/5e84779a-6a4b-46e4-9714-189690a96b23)
 
 
 ## Step 4:
@@ -44,6 +42,6 @@ print("{:.2f}".format(d))
 ![image](https://user-images.githubusercontent.com/120359170/226855887-2deb55be-c8ea-4ef3-8630-bc16663b7c3c.png)
 
 ### RESULT:
-Thus the distance of the two points is sucessfully executed and displayed.
+Thus the program to find the distance between two points is written and verified using python programming.
 
 
